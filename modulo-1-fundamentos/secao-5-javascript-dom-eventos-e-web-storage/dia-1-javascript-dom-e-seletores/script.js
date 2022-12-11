@@ -22,3 +22,17 @@ const correctTextH1 = () => {
   textH1.innerHTML = "Desafio - Javascript";
 };
 correctTextH1();
+// requisito 5
+const alteraTextoPrimeiraTagP = () => {
+  let primeiratagP = document.getElementsByTagName("p")[1];
+  primeiratagP.innerHTML = "textãotextãotextãotextãotextãotextão";
+};
+alteraTextoPrimeiraTagP();
+// requisito 6
+const exibeTdsTagP = () => {
+  let tdstagP = document.getElementsByTagName("p");
+  for (let index = 0; index < tdstagP.length; index += 1) {
+    console.log(tdstagP[index].innerHTML);
+  }
+};
+exibeTdsTagP();
