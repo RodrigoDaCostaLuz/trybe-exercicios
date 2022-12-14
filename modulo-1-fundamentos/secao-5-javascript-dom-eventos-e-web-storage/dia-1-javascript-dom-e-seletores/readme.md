@@ -3,9 +3,9 @@
 #Exercício Desafio Técnico: manipulação de DOM
 
 ##Requisitos:
-1. Crie e execute uma função que mude o texto na tag <p>-----</p>, para uma descrição de como você se vê daqui a 2 anos;
-2. Crie e execute uma função que mude a cor do quadrado amarelo para rgb(76,164,109);
-3. Crie e execute uma função que mude a cor do quadrado vermelho para branco;
-4. Crie e execute uma função que corrija o texto da tag <h1>;
-5.Crie e execute uma função que modifique o texto da primeira tag <p> para maiúsculo;
-6.Crie e execute uma função que exiba o conteúdo de todas as tags <p> no console.
+
+Crie e execute uma função que mude o texto na tag '<p>-----</p>', para uma descrição de como você se vê daqui a 2 anos;
+Crie e execute uma função que mude a cor do quadrado amarelo para rgb(76,164,109);
+Crie e execute uma função que corrija o texto da tag '<h1>';
+Crie e execute uma função que modifique o texto da primeira tag '<p>' para maiúsculo;
+Crie e execute uma função que exiba o conteúdo de todas as tags '<p>'no console.
